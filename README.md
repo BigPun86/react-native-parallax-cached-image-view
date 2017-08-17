@@ -11,7 +11,7 @@ $ npm i react-native-parallax-cached-image-view --save
 
 ## Demo
 
-![parallax view pager demo](http://gph.is/2wjnEiV)
+https://giphy.com/gifs/xF4a47qMoBu4U/html5
 
 ## Example
 
