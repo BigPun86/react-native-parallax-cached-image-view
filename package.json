@@ -1,6 +1,6 @@
 {
   "name": "react-native-parallax-cached-image-view",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Parallax view for vertical scrollview with a cachable header image and header content. Inspired by react-native-parallax-view",
   "main": "index.js",
   "scripts": {
