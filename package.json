@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BigPun86/react-native-parallax-view.git"
+    "url": "https://github.com/BigPun86/react-native-parallax-cached-image-view"
   },
   "keywords": [
     "react",
@@ -21,12 +21,11 @@
   "author": "Adel Bruno Grimm",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/BigPun86/react-native-parallax-view.git/issues"
+    "url": "https://github.com/BigPun86/react-native-parallax-cached-image-view/issues"
   },
-  "homepage": "https://github.com/BigPun86/react-native-parallax-view.git",
+  "homepage": "https://github.com/BigPun86/react-native-parallax-cached-image-view",
   "dependencies": {
-    "react-native-fetch-blob": "^0.10.8",
-    "react-native-img-cache": "^1.4.0",
+    "react-native-image-progress": "^1.4.0",
     "react-native-scrollable-mixin": "^1.0.1"
   },
   "peerDependencies": {

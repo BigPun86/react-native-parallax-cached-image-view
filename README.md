@@ -1,7 +1,7 @@
 # react-native-parallax-cached-image-view
 
 Parallax view with a cachable header image and header content.
-This Module is an small improvement to react-native-parallax-view with some small fixes. Forther on it is able to cache images by using the react-native-img-cache. 
+This Module is an small improvement to react-native-parallax-view with some small fixes. Further on it forces image caching which helps when combining this module with a viewpager or some listviews. Including react-native-image-progress 
 
 ## Installation
 
