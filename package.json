@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/BigPun86/react-native-parallax-cached-image-view",
   "dependencies": {
-    "react-native-image-progress": "^1.4.0",
+    "react-native-image-progress": "^1.0.1",
     "react-native-scrollable-mixin": "^1.0.1"
   },
   "peerDependencies": {
